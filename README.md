@@ -6,8 +6,8 @@ IDE_SalesforceLog_Parser.html
 is an text log parser using javascript. Open a debug trace log that you have downloaded from Salesforce and click on "Prettify" button to trim down the lines of text, depending on selected tags. The parser will also indent and parse JSOn data depending on parameters selected.
 
 Requirements:
+This file runs (tested) in Chrome browser (Version 90 or greater).
 
-This file is tested with with Chrome browser (Version 90 or greater).
 Checksum: SHA 256. - shasum -a 256 IDE_Salesforcelog_Parser.html  dbaa800b87f5354d880ba59aa147f19beedb35f7759d84304409c1b49faa27bd
 
 Disclaimer: Your use and access of the content in this repository are AT YOUR OWN RISK. You understand and agree that the content are provided to you on an "AS IS" and "AS AVAILABLE" basis. This repository and its publisher disclaim all warranties and conditions, whether express or implied, of merchantability, fitness for a particular purpose, or non-infrintement.
